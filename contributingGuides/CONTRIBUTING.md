@@ -1,5 +1,6 @@
 # Contributing to Expensify
 Welcome! Thanks for checking out the New Expensify app and taking the time to contribute!
+Good
 
 ## Getting Started
 If you would like to become an Expensify contributor, the first step is to read this document in its **entirety**. The second step is to review the README guidelines [here](https://github.com/Expensify/App/blob/main/README.md) to understand our coding philosophy and for a general overview of the code repository (i.e. how to run the app locally, testing, storage, our app philosophy, etc). Please read both documents before asking questions, as it may be covered within the documentation.
